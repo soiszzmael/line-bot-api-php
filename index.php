@@ -1,2 +1,2 @@
 <?php
-echo "Hey! Sophiya. <=> LINEBOT API";
+echo "Hello! Sophiya. <=> LINEBOT API";
